@@ -1,0 +1,13 @@
+Exporting models from blender to Unity
+-------------------------------------------
+
+#blender
+#Unity
+#Game-dev
+#Art
+
+To export a model from blender to Unity, do as follows:
+- Go to file -> export == Then choose Wavefront (.obj) in this case
+- Change Forward axis to -x and upwards axis to Y
+- Press export and place both files in your Unity project
+## If you have multiple models, remember to check "selection only"

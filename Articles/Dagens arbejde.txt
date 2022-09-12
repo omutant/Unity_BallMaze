@@ -1,0 +1,6 @@
+1. Opsætning af Unity projekt med PARA-baseret struktur
+2. Skrev en artikel baseline til dokumentation af udviklings processen's komponenter
+3. Opretede de basale assets jeg skal bruge til projektet (En plade og en bold med textures i Blender)
+4. Lavede basic movement scripts til platformen og bolden i mit spil (tog alt for lang tid at vænne mig til Unity's scripting igen)
+5. Brugte 1 time på at prøve at forstå Mathf.Clamp med negative værdier. Kan selvfølgelig bare copy-paste kode, men vil gerne forstå sagerne :)
+6. Har fået det meget basale til at virke med platformen og bolden. Skal stadig tweak for at få godt game-feel
